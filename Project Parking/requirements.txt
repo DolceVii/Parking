@@ -1,0 +1,10 @@
+mysql-connector-python
+tkcalendar
+python-dateutil
+matplotlib
+numpy
+pandas
+python-barcode
+Pillow
+qrcode
+reportlab
